@@ -1,4 +1,4 @@
-# Árvore Geneologica Zeca
+# Árvores Geneologicas
 
 Para ver o diagrama, visita: [Index Árvore Geneologica](https://harfie.github.io/ArvoreGeneologica).  
 Ha varias paginas no diagram, na primeira podes escolher qual queres ver.
